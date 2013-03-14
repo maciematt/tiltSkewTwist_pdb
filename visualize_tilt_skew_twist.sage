@@ -1,4 +1,5 @@
 # (c) Mateusz Maciejewski, 2010
+# License: MIT
 # This script requires SAGE (http://www.sagemath.org/) to visualize the output of tilt_skew_twist.py:
 #
 # sage visualize_tilt_skew_twist.sage
