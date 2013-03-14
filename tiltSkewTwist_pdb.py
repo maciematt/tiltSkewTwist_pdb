@@ -14,8 +14,8 @@ Note: review the code to choose the coordinate set type (right- or left-handed; 
 __author__ = "Mateusz Maciejewski"
 __email__ = "maciejewski.matt@gmail.com"
 __date__ = "December 2010"
-__copyright__ = "Copyright (C) 2010, 2011, 2012 Mateusz Maciejewski, Barlow Lab, Biomolecular NMR Unit, University of Edinburgh"
-__license__ = "Public Domain"
+__copyright__ = "Copyright (c) 2010, 2011, 2012 Mateusz Maciejewski, Barlow Lab, Biomolecular NMR Unit, University of Edinburgh"
+__license__ = "MIT"
 
 
 import sys
