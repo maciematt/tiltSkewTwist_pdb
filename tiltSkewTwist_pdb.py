@@ -249,7 +249,7 @@ def calcTensor(res, ats, trp, mod, molecule):
 
 domainsToDo = 2
 
-unique_models = list(set(molecule.model.values())) # this trict will remove the repetitions from values upon creation of the set, and then turn that into a list
+unique_models = list(set(molecule.model.values())) # this will remove the repetitions from values upon creation of the set, and then turn that into a list
 
 
 for mod in unique_models:
