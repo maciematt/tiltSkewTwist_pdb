@@ -33,7 +33,7 @@ if len(sys.argv) != 8:
 class AtomCollector:
 
     """
-    This class collects info on each atom in taret pdb.
+    This class collects info on each atom in target pdb.
     It creates a molecule object that stores atoms as attributes identified
     by atom numbers from pdb:
     .model - molecular model identifier
